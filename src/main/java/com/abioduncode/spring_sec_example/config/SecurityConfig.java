@@ -19,6 +19,7 @@ import org.springframework.security.crypto.password.NoOpPasswordEncoder;
 import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
+
 import com.abioduncode.spring_sec_example.config.JWTFilter;
 import com.abioduncode.spring_sec_example.service.MyUserDetailsService;
 

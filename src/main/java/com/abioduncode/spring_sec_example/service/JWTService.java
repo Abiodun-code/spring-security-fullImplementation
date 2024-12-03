@@ -1,6 +1,5 @@
 package com.abioduncode.spring_sec_example.service;
 
-import java.security.Key;
 import java.security.NoSuchAlgorithmException;
 import java.util.Base64;
 import java.util.Date;
