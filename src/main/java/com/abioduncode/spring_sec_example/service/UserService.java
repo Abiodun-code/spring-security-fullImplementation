@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 
 import com.abioduncode.spring_sec_example.model.Users;
 import com.abioduncode.spring_sec_example.repository.UserRepo;
-import com.abioduncode.spring_sec_example.service.JWTService;
 
 @Service
 public class UserService {
